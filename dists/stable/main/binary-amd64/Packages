@@ -1,0 +1,17 @@
+Package: nexoraos-hub
+Architecture: all
+Version: 0.2.202611031405
+Priority: optional
+Section: games
+Maintainer: NexoraOS <noreply@nexoraos.invalid>
+Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, python3-psutil, ffmpeg, libnotify-bin, x11-utils, pipewire-bin
+Filename: pool/main/nexoraos-hub_0.2.202611031405_all.deb
+Size: 21700
+MD5sum: 997ff870ac009ba37eaa21361f8ddbdc
+SHA1: 6be135789f235ff228c54c21f3e4ee52547402de
+SHA256: 461c6ce170c03f004b58159288f658a3dce0a1f6e86f25651654aa06debdf84f
+SHA512: 67a692ec6a422ea5ec94e8b4c5053c1fc8897df7c7380dfeba2b4f9c059dd283123ae4a8d84a720631c1a28e7e01efca9cddda4b59124c5f3c4d615c322653f5
+Description: Nexora Hub — игровой центр NexoraOS
+ Библиотека игр Steam, магазин приложений, стриминг и запись экрана,
+ сведения о системе и режимы питания, заставка при входе.
+
