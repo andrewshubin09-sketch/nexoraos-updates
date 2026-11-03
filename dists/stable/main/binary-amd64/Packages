@@ -15,3 +15,20 @@ Description: Nexora Hub — игровой центр NexoraOS
  Библиотека игр Steam, магазин приложений, стриминг и запись экрана,
  сведения о системе и режимы питания, заставка при входе.
 
+Package: nexoraos-hub
+Architecture: all
+Version: 0.2.202611031500
+Priority: optional
+Section: games
+Maintainer: NexoraOS <noreply@nexoraos.invalid>
+Depends: python3, python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, python3-psutil, ffmpeg, libnotify-bin, x11-utils, pipewire-bin, pulseaudio-utils, brightnessctl
+Filename: pool/main/nexoraos-hub_0.2.202611031500_all.deb
+Size: 36308
+MD5sum: 8754ba3d60f03c15ee1481ad3a6311c8
+SHA1: 37cac62bf5bc6466d5ae0f0be61ee1478018aa98
+SHA256: 2e4e9657013bde065a9183e8c2daef8b61296996a93ee40884c3c074268478fd
+SHA512: 81ba1705cb4ce76f0f6daf78fe8011b9c58d5d1db7f8739d8f7c54e6038efa1a3ed54b2ebcd135a545389f0024bafe81eb27a62406660db20e1677f784c03b60
+Description: Nexora Hub и «Параметры» NexoraOS
+ Игровой центр: библиотека игр Steam, магазин приложений, стриминг и запись
+ экрана, режимы питания, заставка при входе. «Параметры» в духе Windows 11.
+

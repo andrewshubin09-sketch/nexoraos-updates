@@ -4,39 +4,39 @@ Hash: SHA512
 Architectures: amd64 all
 Codename: stable
 Components: main
-Date: Tue, 03 Nov 2026 14:05:50 +0000
+Date: Tue, 03 Nov 2026 15:00:02 +0000
 Description: Обновления NexoraOS
 Label: NexoraOS
 Origin: NexoraOS
 Suite: stable
 MD5Sum:
- 2383d0386b09f36cc2516b382cad7b75              187 Release
- 9f2eb8af4ed17f417504d489c521bb46              933 main/binary-all/Packages
- f9db21542f952e834087391214dbe34c              676 main/binary-all/Packages.gz
- 9f2eb8af4ed17f417504d489c521bb46              933 main/binary-amd64/Packages
- f9db21542f952e834087391214dbe34c              676 main/binary-amd64/Packages.gz
+ caa5bd0736dff3f33dcba70aeeb604e2              187 Release
+ 7bb17cc8ad85dcb155f63ca6ce6674f4             1931 main/binary-all/Packages
+ ce76ad6280bbbd0ddf223d786863c2c5              971 main/binary-all/Packages.gz
+ 7bb17cc8ad85dcb155f63ca6ce6674f4             1931 main/binary-amd64/Packages
+ ce76ad6280bbbd0ddf223d786863c2c5              971 main/binary-amd64/Packages.gz
 SHA1:
- cbc10e9072d60828cc2a795c4cd15f624831f9d3              187 Release
- ee2646e3217f8990c26d9737749964777bc3226e              933 main/binary-all/Packages
- 08cf059aac93d29235e7af832b024d6a87f68b91              676 main/binary-all/Packages.gz
- ee2646e3217f8990c26d9737749964777bc3226e              933 main/binary-amd64/Packages
- 08cf059aac93d29235e7af832b024d6a87f68b91              676 main/binary-amd64/Packages.gz
+ d52376eb8a1fab70b1d14a55a4702739541b80d7              187 Release
+ 5628ddecd6aea4f301d186a62ec8d33ed18faaab             1931 main/binary-all/Packages
+ 94b401378952c1eeb4cea04dae239d471e3952b5              971 main/binary-all/Packages.gz
+ 5628ddecd6aea4f301d186a62ec8d33ed18faaab             1931 main/binary-amd64/Packages
+ 94b401378952c1eeb4cea04dae239d471e3952b5              971 main/binary-amd64/Packages.gz
 SHA256:
- a9d5cbcc15fa72630b3f3af0202e8544886c936fb25d912fe68c90c5408fdd1f              187 Release
- 33203ee2c5b199055638f7829d876e3e13c738f8d2af5558812c747dc85f0c98              933 main/binary-all/Packages
- da807841b64133da3e46f4f3034b0d34195ffd8dd4b49bdf3732057cd64d043d              676 main/binary-all/Packages.gz
- 33203ee2c5b199055638f7829d876e3e13c738f8d2af5558812c747dc85f0c98              933 main/binary-amd64/Packages
- da807841b64133da3e46f4f3034b0d34195ffd8dd4b49bdf3732057cd64d043d              676 main/binary-amd64/Packages.gz
+ cd4e6cd706d82a66892a06f776272af894e512742a07f42b9563e2130666e629              187 Release
+ 7eda115907846da827fbb82cf16b04b81f5ea50459cdb1aeea1779a5530698ba             1931 main/binary-all/Packages
+ 148fd941218f2372802be0a52b45bc32310bf709f187cd6785464c75dc9bc32f              971 main/binary-all/Packages.gz
+ 7eda115907846da827fbb82cf16b04b81f5ea50459cdb1aeea1779a5530698ba             1931 main/binary-amd64/Packages
+ 148fd941218f2372802be0a52b45bc32310bf709f187cd6785464c75dc9bc32f              971 main/binary-amd64/Packages.gz
 SHA512:
- d08c9332d70591c96ac9363136e360a0c5d565d6db842241c15224abbb2f46e6a63501c693e776b2e367a73db2f00de53d770cf1ce5d6916366abc3320c071af              187 Release
- cea6f99a1bb3706e76ccecbe46f6212198a65428bfb7a17f7abf0a9702da79d41c65b21aff4090d13c9d570e55685e55cd3763fb7d7c8dbc0b8e884c4c9befbb              933 main/binary-all/Packages
- 39e77f1f10a77db254f306b4b03fe9695e6e30e8c8aeb1fbbb50115bf28cbb3b0494564406da13683f6d2dd98762a7268ca560347478ddd7fd673fda85d79e95              676 main/binary-all/Packages.gz
- cea6f99a1bb3706e76ccecbe46f6212198a65428bfb7a17f7abf0a9702da79d41c65b21aff4090d13c9d570e55685e55cd3763fb7d7c8dbc0b8e884c4c9befbb              933 main/binary-amd64/Packages
- 39e77f1f10a77db254f306b4b03fe9695e6e30e8c8aeb1fbbb50115bf28cbb3b0494564406da13683f6d2dd98762a7268ca560347478ddd7fd673fda85d79e95              676 main/binary-amd64/Packages.gz
+ a8bb1ab23b38b321bf514dc150e2f520603a53aa1249e847b9f251408e5f29b73a7aed77cd584c5a69cfe90f4c38c0035d7fb4182fe42df206a5a28004794aa8              187 Release
+ a8b47b09e3a49446aed75ae18fa5b8af3b139b6e5f4054eaf4a18dc98f21d7cd8498d36d7af9868385956764e7ff97a5aed5d5e5298bd4256954d6a55a4a3e61             1931 main/binary-all/Packages
+ 6d3691757a8b4c2fb20cf829874beb86b653e1765c2d622c3b1b2469aea3d981cdeed7b239c34c2e732daa36d97a7a14ca5efe1902218c3de8687f65edd67c1b              971 main/binary-all/Packages.gz
+ a8b47b09e3a49446aed75ae18fa5b8af3b139b6e5f4054eaf4a18dc98f21d7cd8498d36d7af9868385956764e7ff97a5aed5d5e5298bd4256954d6a55a4a3e61             1931 main/binary-amd64/Packages
+ 6d3691757a8b4c2fb20cf829874beb86b653e1765c2d622c3b1b2469aea3d981cdeed7b239c34c2e732daa36d97a7a14ca5efe1902218c3de8687f65edd67c1b              971 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSYSzNGVpZhqcjWsXqu6Y5JiwMaYgUCaunqPgAKCRCu6Y5JiwMa
-Yt38AP4o+aO8fgSCW5KqS4Rckoaslnapk2IgE5TEAqCXzjt6mwEA0pqNfWOznSa0
-9JBMwHbjTIuLRgFRDT2M64YWLClvwgo=
-=ocrL
+iHUEARYKAB0WIQSYSzNGVpZhqcjWsXqu6Y5JiwMaYgUCaun28gAKCRCu6Y5JiwMa
+YgVLAPsGNLti8gkBbYNN7ORIepI05ro9pusXkkM61FuR4nNzkAD+KeLs6d6eE9Ly
+n6TiLdzOnWfCEuH3nlZyFMsh66Gr5w8=
+=SYGF
 -----END PGP SIGNATURE-----
